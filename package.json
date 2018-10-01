@@ -1,0 +1,15 @@
+{
+  "name": "squad_up",
+  "version": "1.0.0",
+  "description": "squad",
+  "main": "index.js",
+  "repository": "localhost:3000",
+  "author": "mollyseith mollllyyyyy@yahoo.com",
+  "license": "none",
+  "private": null,
+  "dependencies": {
+    "react": "^16.5.2",
+    "semantic-ui-css": "^2.4.0",
+    "semantic-ui-react": "^0.82.5"
+  }
+}
