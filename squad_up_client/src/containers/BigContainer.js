@@ -12,12 +12,13 @@ const BigContainer = props => {
       squad={props.squad}
       current_user={props.current_user}
       selected_color={props.selected_color}
-      next={props.next}
     />
     <NavContainer
       current_user={props.current_user}
       next={props.next}
+      last={props.last}
       current_user_arr={props.current_user_arr}
+      add={props.add}
     />
     </div>
   )

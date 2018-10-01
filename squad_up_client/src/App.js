@@ -22,9 +22,20 @@ class App extends Component {
 
   displayNext = () => {
    this.setState({
-     displayPos: this.state.current_user + 1
+     current_user: this.state.current_user + 1
    });
   };
+
+  displayLast = () => {
+    this.setState({
+      current_user: this.state.current_user - 1
+    });
+  }
+
+  addToSquad = () => {
+    this.setState({
+      squad: [...this.state.squad, this.state.current_user_arr[this.state.current_user]]})
+  }
 
   componentDidMount(){
     fetch(`https://uifaces.co/api?limit=55`,{
@@ -44,6 +55,8 @@ class App extends Component {
           squad={this.state.squad}
           current_user={this.state.current_user}
           next={this.displayNext}
+          last={this.displayLast}
+          add={this.addToSquad}
           selected_color={this.state.selected_color}
           />
       </div>

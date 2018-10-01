@@ -1,17 +1,22 @@
 import React, { Fragment } from "react";
 import { Button } from 'semantic-ui-react'
+import BackButton from "./BackButton"
+import NextButton from "./NextButton"
+import AddButton from "./AddButton"
+import SaveButton from "./SaveButton"
+
 
 const Nav = props => {
 
   return(
     <center>
       <br></br>
-    <Button circular icon='arrow left' size='big' />
-    <Button circular icon='arrow right' size='big' />
+      <BackButton last={props.last} />
+      <NextButton next={props.next} />
     <br></br>
     <br></br>
-    <Button icon='plus' content='Add'/>
-    <Button icon='save outline' content='Save'/>
+      <AddButton add={props.add} />
+      <SaveButton />
     </center>
   )
 }
