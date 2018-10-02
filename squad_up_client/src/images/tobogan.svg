@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="512" width="512"   viewBox="0 0 102 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17248) - http://www.bohemiancoding.com/sketch -->
+    <title>Winter Hat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Cozy-Winter-Set" sketch:type="MSArtboardGroup" transform="translate(-1056.000000, -1665.000000)">
+            <g id="Winter-Set" sketch:type="MSLayerGroup" transform="translate(320.000000, 202.000000)">
+                <g id="Winter-Hat" transform="translate(736.000000, 1465.000000)" sketch:type="MSShapeGroup">
+                    <g id="Group" transform="translate(0.000000, 22.755814)">
+                        <path d="M2.4,62.2790698 L2.4,47.9078927 C2.4,21.4406937 23.8952313,0 50.4109428,0 L52.7890572,0 C79.3121086,0 100.8,21.4490941 100.8,47.9078927 L100.8,62.2790698 L2.4,62.2790698 L2.4,62.2790698 Z" id="Rectangle-394" stroke="#713332" stroke-width="3.6" fill="#F6E6D7"></path>
+                        <path d="M98.2910896,50.5890373 L98.2910896,64.9602144 L65.615625,62.4545104 C96.7828127,52.9966818 72.1084939,19.2320171 55.8,2.99418605 C79.7215699,5.72532285 98.2910896,25.9925237 98.2910896,50.5890373 Z" id="Rectangle-395" fill="#D5B9AE"></path>
+                        <rect id="Rectangle-396" stroke="#713332" stroke-width="3.6" fill="#86C7C1" x="0" y="50.3023256" width="102" height="29.9418605" rx="3.6"></rect>
+                        <rect id="Rectangle-397" stroke="#713332" stroke-width="3.6" fill="#9FDCD7" x="6" y="50.3023256" width="10.8" height="29.9418605" rx="3.6"></rect>
+                        <rect id="Rectangle-399" stroke="#713332" stroke-width="3.6" fill="#9FDCD7" x="20.4" y="50.3023256" width="10.8" height="29.9418605" rx="3.6"></rect>
+                        <rect id="Rectangle-401" stroke="#713332" stroke-width="3.6" fill="#9FDCD7" x="34.8" y="50.3023256" width="10.8" height="29.9418605" rx="3.6"></rect>
+                        <rect id="Rectangle-403" stroke="#713332" stroke-width="3.6" fill="#9FDCD7" x="49.2" y="50.3023256" width="10.8" height="29.9418605" rx="3.6"></rect>
+                        <rect id="Rectangle-405" stroke="#713332" stroke-width="3.6" fill="#9FDCD7" x="63.6" y="50.3023256" width="10.8" height="29.9418605" rx="3.6"></rect>
+                        <rect id="Rectangle-406" stroke="#713332" stroke-width="3.6" fill="#9FDCD7" x="76.8" y="50.3023256" width="10.8" height="29.9418605" rx="3.6"></rect>
+                        <rect id="Rectangle-407" stroke="#713332" stroke-width="3.6" fill="#9FDCD7" x="91.2" y="50.3023256" width="10.8" height="29.9418605" rx="3.6"></rect>
+                    </g>
+                    <polygon id="Star-75" stroke="#713332" stroke-width="2.4" fill="#EF9E9E" points="51.6 36.7433797 48.7383885 38.1115489 46.4079684 35.9623234 43.2694322 36.4278685 41.6772715 33.688555 38.5406834 33.2101103 37.8282526 30.1241086 34.9723122 28.744186 35.202914 25.5857011 32.8813841 23.4269128 34.0345283 20.4765898 32.4536871 17.7307536 34.4269119 15.2507416 33.727224 12.1618371 36.3451998 10.3724962 36.5888355 7.21498612 39.6189436 6.27530705 40.7842549 3.32975 43.9572568 3.32322736 45.9407007 0.851349024 48.9746613 1.77856239 51.6 0 54.2253387 1.77856239 57.2592993 0.851349024 59.2427432 3.32322736 62.4157451 3.32975 63.5810564 6.27530705 66.6111645 7.21498612 66.8548002 10.3724962 69.472776 12.1618371 68.7730881 15.2507416 70.7463129 17.7307536 69.1654717 20.4765898 70.3186159 23.4269128 67.997086 25.5857011 68.2276878 28.744186 65.3717474 30.1241086 64.6593166 33.2101103 61.5227285 33.688555 59.9305678 36.4278685 56.7920316 35.9623234 54.4616115 38.1115489 "></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

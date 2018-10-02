@@ -33,9 +33,13 @@ class App extends Component {
   }
 
   addToSquad = () => {
+    let c = this.state.current_user_arr[this.state.current_user]
+    if (this.state.squad.includes(c)){
+      alert('You have already added this person')}
+    else{
     this.setState({
       squad: [...this.state.squad, this.state.current_user_arr[this.state.current_user]]})
-  }
+  }}
 
   componentDidMount(){
     fetch(`https://uifaces.co/api?limit=55`,{
@@ -49,7 +53,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-          <h1 className="App-title">Squad Up</h1>
+          <h1 className="App-title">Hatify</h1>
           <BigContainer
           current_user_arr={this.displayCurrent()}
           squad={this.state.squad}
